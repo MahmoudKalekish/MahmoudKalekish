@@ -8,4 +8,4 @@
 MahmoudKalekish/MahmoudKalekish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://app.daily.dev/mahmoud_kalekish"><img src="https://api.daily.dev/devcards/38dfe45b555b460b91d381a61b7130ad.png?r=tia" width="400" alt="Mahmoud Kalekish's Dev Card"/></a>
+<a href="https://app.daily.dev/mahmoud_kalekish"><img src="https://github.com/MahmoudKalekish/MahmoudKalekish/blob/main/devcard.svg" width="400" alt="Mahmoud Kalekish's Dev Card"/></a>
