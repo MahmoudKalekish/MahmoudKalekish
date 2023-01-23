@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MahmoudKalekish
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning HTML & CSS & JavaScript...
+- 🌱 I’m currently learning MERN Stack...
 - 💞️ I’m looking to collaborate on anything i can collaborate
 - 📫 How to reach me: send me an E-mail (in my profile).
 
