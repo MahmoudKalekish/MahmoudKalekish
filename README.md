@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @MahmoudKalekish
 - 👀 I’m interested in Web Development & Mobile App.
 - 💻 I have experience working with MERN Stack, Lamp Stack and WordPress.
-- 💞️ I’m looking to collaborate on anything i can collaborate
 - 📫 How to reach me: send me an E-mail (in my profile).
 - 🔭 I'm learning now.
 - 🤝 I love helping others to reach their goals.
-- :heart: You can follow me on LinkedIn for more information.
+- :heart: You can follow me on LinkedIn or Instagram for more information.
 
 
 
