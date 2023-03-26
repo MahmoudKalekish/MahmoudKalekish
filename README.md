@@ -2,7 +2,8 @@
 - 👀 I’m interested in Web Development & Mobile App.
 - 💻 I have experience working with MERN Stack, Lamp Stack and WordPress.
 - 📫 You can reach me via Email: <br>
-  [![LinkedIn](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mahmoudkalekish18@gmail.com)
+  <a href="mailto:mahmoudkalekish18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 - 🔭 I'm learning now.
 - 🤝 I love helping others to reach their goals.
 - :heart: You can follow me on LinkedIn or Instagram for more information.
