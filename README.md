@@ -11,8 +11,9 @@
 
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/mahmoud-kalekish/" onmousedown="if (event.which == 2) this.target='_blank'" target="_self"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
-<a href="https://www.instagram.com/mahmoud_kalekish/?igshid=YmMyMTA2M2Y%3D" onmousedown="if (event.which == 2) this.target='_blank'" target="_self"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/mahmoud-kalekish/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
+<a href="https://www.instagram.com/mahmoud_kalekish/?igshid=YmMyMTA2M2Y%3D" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
 
 
 
