@@ -52,9 +52,9 @@ Git · GitHub · NPM · WordPress · Linux · Ubuntu · Markdown
 <a href="https://github.com/MahmoudKalekish">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MahmoudKalekish&theme=default" height="150" />
 </a>
-<a href="https://github.com/MahmoudKalekish">
+<!-- <a href="https://github.com/MahmoudKalekish">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MahmoudKalekish&theme=transparent&hide_border=true" height="150" />
-</a>
+</a> -->
 
 
 ---
